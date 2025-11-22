@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Akhilesh Sharma</h1>
+<h1>Hi there 👋, I'm Akhilesh Sharma</h1>
 
 ## 👨🏻‍💻 About Me
 I am a B.Tech student in Information Technology at Guru Nanak Dev Engineering College.  
