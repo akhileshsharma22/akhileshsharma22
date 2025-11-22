@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Akhilesh Sharma</h1>
 
-<!--
-**akhileshsharma22/akhileshsharma22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
+I am a B.Tech student in Information Technology at Guru Nanak Dev Engineering College.  
+A keen learner with a headstrong approach to challenges and a passion for coding.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently focusing on **Web Development**
+- 🎓 Studying **Information Technology**
+- ✍️ Exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python | C++ | C | Java  
+
+**Web Development:**  
+HTML | CSS | Bootstrap
+
+**Databases:**  
+ MongoDB  
+
+**Tools:**  
+PyCharm | Visual Studio Code  
+
+---
+
+## 🌍 Location
+Based in **India 🇮🇳**
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [Akhilesh Sharma](https://www.linkedin.com/in/akhilesh-sharma-26a223251/)  
+- **Email:** akhileshsharma.ldh2004@gmail.com
